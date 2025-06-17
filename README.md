@@ -66,7 +66,9 @@ Hi, I’m a third-year B.Tech student at IIT Mandi exploring web development.  I
 ## 🔗 Live Demo
 
 Check out the live version here:  
-👉 [Amazon Clone Live](https://himavarnika.github.io/Amazonclone/)
+
+[Click here to view the live site](https://transcendent-peony-987a4a.netlify.app/)
+
 
 
 
