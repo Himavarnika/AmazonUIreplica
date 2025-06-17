@@ -20,15 +20,14 @@ I took this up as a personal learning project to strengthen my frontend skills, 
 
 #  Project Structure
 
-Amazonclone/
-├── index.html # Main HTML file
-├── style.css # Styling for the page
-└── images/ # Images used for the boxes
-├── box1_image.jpg
-├── box2_image.jpg
-└── ...
+AmazonUIreplica/
+├── index.html           # Main HTML file
+├── style.css            # Styling for the page
+└── images/              # Images used for the boxes
+    ├── box1_image.jpg
+    ├── box2_image.jpg
+    └── ...
 
----
 
 # Tools & Resources Used
 
@@ -47,11 +46,11 @@ Amazonclone/
 -To view the Amazon clone on your local machine:
 -Clone the repository or download the ZIP:
 
-git clone https://github.com/Himavarnika/Amazonclone.git
+git clone https://github.com/Himavarnika/AmazonUIreplica.git
 
 -Navigate to the project folder:
 
-cd AmazonClone
+cd AmazonUIreplica
 
 -Open the index.html file in your browser by double-clicking it or dragging it into the browser window.
 
